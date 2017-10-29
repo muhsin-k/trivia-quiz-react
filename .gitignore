@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+npm-debug.log
+config/config.json
+build/
+.DS_Store/
+src/css/.DS_Store/
