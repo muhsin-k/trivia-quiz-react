@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/muhzi4u/trivia-quiz/badge)](https://www.codefactor.io/repository/github/muhzi4u/trivia-quiz)
 # Trivia Quiz
 
 Trivia Quiz Built By using Opentdb
